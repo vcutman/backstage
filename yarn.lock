@@ -28139,15 +28139,15 @@ __metadata:
   linkType: hard
 
 "json-schema-library@npm:^7.0.0":
-  version: 7.3.0
-  resolution: "json-schema-library@npm:7.3.0"
+  version: 7.3.1
+  resolution: "json-schema-library@npm:7.3.1"
   dependencies:
     deepmerge: ^4.2.2
     fast-deep-equal: ^3.1.3
     gson-pointer: ^4.1.1
     gson-query: ^5.1.0
     valid-url: ^1.0.9
-  checksum: 3d148d4be1e59e058bd777d247c181e2cb4820f9f5b9c97f7258f88fa73e1c0ed5c8e07c3fef4e1e8e892666def02b2b5fe5366d3d8d2bed09be3752e5593319
+  checksum: f149ae314949f1bc8a9faf42dab7ce515a1e2facc5019a6a4844a6feb4dc8a2a4103a24349b4826f2085c2c2c866c2ddc6bd9e120317e626b358f6185ec743e9
   languageName: node
   linkType: hard
 
