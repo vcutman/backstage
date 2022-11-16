@@ -33,6 +33,7 @@
   },
   "dependencies": {
     "@backstage/config": "workspace:^",
+    "@backstage/catalog-model": "workspace:^",
     "@backstage/core-plugin-api": "workspace:^",
     "@backstage/types": "workspace:^",
     "@backstage/version-bridge": "workspace:^",
